@@ -5,5 +5,6 @@ for (var i = 1; i <= 100; i++) {
         console.log("MATCH!")
     } else {
     console.log(i);
-    }
+}
+
 }
