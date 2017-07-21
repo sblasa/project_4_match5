@@ -1,4 +1,4 @@
-var startMatchNum = 5
+var startMatchNum = 5;
 
 for (var i = 1; i <= 100; i++) {
     if(i % startMatchNum == 0) {
@@ -8,3 +8,4 @@ for (var i = 1; i <= 100; i++) {
 }
 
 }
+
